@@ -17,10 +17,10 @@ This project focuses on the development and testing of an autonomous model rocke
 * **Fuselage:** Aerodynamic body parts designed and produced using 3D printing technology
 
 ### 📷 Media
-<img src="rocket.jpg" width="500" alt="Rocket Assembly">
+<img src="rocket.jpg" width="300" alt="Rocket Assembly">
 *Figure 1: Rocket electronic and propulsion assembly*
 
-<img src="3d_print.jpg" width="500" alt="3D Printed Components">
+<img src="3d_print.jpg" width="300" alt="3D Printed Components">
 *Figure 2: Custom 3D printed fuselage parts*
 
 ---
@@ -38,10 +38,10 @@ This project focuses on the development and testing of an autonomous model rocke
 * **Корпус:** Аэродинамические элементы конструкции, разработанные и изготовленные с помощью 3D-печати
 
 ### 📷 Медиафайлы
-<img src="rocket.jpg" width="500" alt="Сборка ракеты">
+<img src="rocket.jpg" width="300" alt="Сборка ракеты">
 *Рисунок 1: Электронная и силовая сборка ракеты*
 
-<img src="3d_print.jpg" width="500" alt="3D-печатные детали">
+<img src="3d_print.jpg" width="300" alt="3D-печатные детали">
 *Рисунок 2: Элементы корпуса, напечатанные на 3D-принтере*
 ---
 
@@ -58,8 +58,8 @@ This project focuses on the development and testing of an autonomous model rocke
 * **Մարմին (Կորպուս):** Օդադինամիկ կառուցվածքի տարրեր՝ նախագծված և պատրաստված եռաչափ տպագրության տեխնոլոգիայով
 
 ### 📷 Պատկերներ
-<img src="rocket.jpg" width="500" alt="Հրթիռի հավաքումը">
+<img src="rocket.jpg" width="300" alt="Հրթիռի հավաքումը">
 *Պատկեր 1. Հրթիռի էլեկտրոնային և շարժիչային համակարգի հավաքումը*
 
-<img src="3d_print.jpg" width="500" alt="Եռաչափ տպագրություն">
+<img src="3d_print.jpg" width="300" alt="Եռաչափ տպագրություն">
 *Պատկեր 2. Եռաչափ տպագրությամբ պատրաստված մարմնի դետալները**
